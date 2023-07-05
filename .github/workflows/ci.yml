@@ -6,7 +6,7 @@ on:
 
 jobs: 
   ci:
-  name: Continuous integration
+  name: Continuous Integration
   runs-on: ubuntu-latest
 
   strategy:
